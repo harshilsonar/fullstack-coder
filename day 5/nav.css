@@ -1,0 +1,71 @@
+*
+{
+  margin:0%;
+  padding: 0%;
+  box-sizing: border-box;  
+}
+header
+{
+    height:80px;
+    width: 100%;
+    background-color: rgb(89, 130, 130);
+}
+header h1
+{
+    height:80px;
+    width: 100%;
+    color: aliceblue;
+    text-align: center;
+}
+.nav
+{
+    height: 80px;
+    width: 100%;
+    background-color:seashell;
+    line-height: 80px;
+}
+.nav .list
+{
+   list-style: none;
+   padding: 0px 20px;
+   float: left;
+}
+.helplist
+{
+    width: 100%;
+    display: none;
+}
+.helplist .help1
+{
+    list-style: none;
+}
+.list:hover .helplist 
+{
+    display:block;
+}
+.contactlist
+{
+    width: 100%;
+    display: none;
+}
+.contactlist .contact1
+{
+    list-style: none;
+}
+.list:hover .contactlist 
+{
+    display:block;
+}
+.shoplist
+{
+    width: 100%;
+    display: none;
+}
+.shoplist .shop1
+{
+    list-style: none;
+}
+.list:hover .shoplist 
+{
+    display:block;
+}

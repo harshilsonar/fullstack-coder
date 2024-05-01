@@ -1,0 +1,78 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.img1
+{
+    height: 250px;
+    width: 22%;
+    /* background-color: aqua; */
+    float: left;
+    margin: 18px;
+}
+.img1 img
+{
+    height: 250px;
+    width: 100%;
+    float: left;
+    filter: grayscale(100);
+    transition: 0.7s all;
+}
+.img1 img:hover{filter: grayscale(0);}
+.img2
+{
+    height: 250px;
+    width: 22%;
+    /* background-color: aqua; */
+    float: left;
+    margin: 18px;
+}
+.img2 img
+{
+    height: 250px;
+    width: 100%;
+    float: left;
+    filter: grayscale(100);
+    transition: 0.7s all;
+}
+.img2 img:hover{filter: grayscale(0);}
+
+.img3
+{
+    height: 250px;
+    width: 22%;
+    /* background-color: aqua; */
+    float: left;
+    margin: 18px;
+}
+.img3 img
+{
+    height: 250px;
+    width: 100%;
+    float: left;
+    filter: grayscale(100);
+    transition: 0.7s all;
+}
+.img3 img:hover{filter: grayscale(0);}
+
+.img4
+{
+    height: 250px;
+    width: 22%;
+    /* background-color: aqua; */
+    float: left;
+    margin: 18px;
+}
+.img4 img
+{
+    height: 250px;
+    width: 100%;
+    float: left;
+    filter: grayscale(100);
+    transition: 0.7s all;
+}
+.img4 img:hover{filter: grayscale(0);}
+
+
